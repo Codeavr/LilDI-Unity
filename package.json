@@ -1,0 +1,11 @@
+{
+  "name": "com.codeavr.lildi",
+  "displayName": "LilDI",
+  "version": "0.1.0",
+  "unity": "2022.2",
+  "description": "Simple DI container",
+  "keywords": ["utility", "dependecies", "di"],
+  "author": {
+    "name": "Codeavr"
+  }
+}
